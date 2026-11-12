@@ -1,0 +1,11 @@
+# Private: the token, real phone numbers, and your own system prompt.
+# The repo has .env.example and contacts.example.json to show their shape.
+.env
+contacts.json
+system_prompt.txt
+
+# Python and macOS clutter
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
